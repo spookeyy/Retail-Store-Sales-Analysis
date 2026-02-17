@@ -17,9 +17,9 @@ data/processed/
 *.xlsx
 
 # Reports (keep figures but not large PDFs)
-*.pdf
-*.png
-!reports/figures/*.png  # except keep these
+# *.pdf
+# *.png
+# !reports/figures/*.png  # except keep these
 
 # VS Code
 .vscode/
