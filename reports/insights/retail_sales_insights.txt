@@ -1,0 +1,20 @@
+
+RETAIL STORE SALES ANALYSIS SUMMARY
+
+Total Revenue: $1,472,998.50
+Average Transaction Value: $129.64
+
+Top Category: Butchers
+Top Item: Item_25_FUR
+
+Top Customer: CUST_24
+Top Customer Spend: $64,608.00
+
+Discount Usage: 33.55%
+
+Payment Method Generating Highest Revenue:
+Cash
+
+The RFM model identified 3 customer segments.
+High-frequency, high-monetary customers should be retained through loyalty programs.
+Low-frequency customers should receive targeted reactivation campaigns.

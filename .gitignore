@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Data (keep raw data but don't commit processed if large)
+data/processed/
+*.csv
+*.xlsx
+
+# Reports (keep figures but not large PDFs)
+*.pdf
+*.png
+!reports/figures/*.png  # except keep these
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
