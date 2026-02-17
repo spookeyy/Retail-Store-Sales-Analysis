@@ -16,12 +16,3 @@ This project analyzes over 1,000 retail transactions from online and in-store pu
 2. Place `retail_store_sales.csv` in `data/raw/`
 3. Run `python scripts/run_all_analysis.py`
 4. View results in `reports/` folder
-
-## Project Structure
-[Include the structure above]
-
-## Key Findings
-- Total Revenue: $XXX,XXX
-- Top Category: XXX
-- Best Customer: XXX
-- [More findings...]
